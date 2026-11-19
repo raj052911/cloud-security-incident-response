@@ -1,0 +1,8 @@
+boto3
+moto[s3,ec2,sns]
+pytest
+cfn-lint
+boto3
+moto[s3,ec2,sns]
+pytest
+cfn-lint
